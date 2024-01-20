@@ -1,24 +1,7 @@
 const questions = [
-    {question : "Which is largest animal in the world?",
-     answer : [
-    {text : "Shark", correct: false},
-    {text : "Blue Whale", correct: true},
-    {text : "Elephant", correct: false},
-    {text : "Giraffe", correct: false}
-]}
-,
+ 
 {
-    question : "Which is the smallest continent in the world?",
-    answer : [
-        {text : "Asia" , correct:false},
-        {text : "Australia" , correct:false},
-        {text : "Arctic" , correct:true},
-        {text : "Africa" , correct:false}
-        
-    ]
-},
-{
-    question: "Who was the first Prime Minister of India?",
+   question: "Who was the first Prime Minister of India?",
     answer: [
         { text: "Sardar Patel", correct: false },
         { text: "Jawaharlal Nehru", correct: true },
